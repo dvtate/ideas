@@ -9,3 +9,6 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 ## Cool But useless
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
 - OS that's just conway's game of life
+
+## Other lists
+- https://better-dpt-roll.github.io/
