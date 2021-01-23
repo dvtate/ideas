@@ -11,5 +11,11 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
 - OS that's just conway's game of life
 
+## \[Bad] Startup ideas
+- Tinder for e-dating
+- Ransomware "insurance" - team to reinstall & recover everything (ie - for factories)
+- Like wikipedia but for news
+- Racing game with proper elo-system
+
 ## Other lists
 - https://better-dpt-roll.github.io/
