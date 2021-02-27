@@ -7,9 +7,10 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 - Chrome/firefix console for node.js so you can inspect complex objects
 - Guestlist widget for website that has actual world map for where people live
 
-## Cool But useless
+## Useless but Interesting
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
 - OS that's just conway's game of life
+- [anti-spellcheck](https://twitter.com/hoffridder/status/1362180211392065536?s=20): underlines words that are spelled correctly and gives most common mispellings
 
 ## \[Bad] Startup ideas
 - Tinder for e-dating
