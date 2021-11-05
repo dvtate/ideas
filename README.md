@@ -7,6 +7,7 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 - Convert this a github repo into a website that lets people contribute their own ideas
 - Chrome/firefix console for node.js so you can inspect complex objects
 - Guestlist widget for website that has actual world map for where people live
+- Water gun to spray washable paint on cars who drive through pedestrian crossway
 
 ## Useless but Interesting
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
@@ -18,6 +19,7 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 - Ransomware "insurance" - team to reinstall & recover everything (ie - for factories)
 - Like wikipedia but for news
 - Racing game with proper elo-system
+- Chemical Factory game
 
 ## Other lists
 - https://better-dpt-roll.github.io/
