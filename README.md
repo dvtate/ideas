@@ -8,6 +8,7 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 - Chrome/firefix console for node.js so you can inspect complex objects
 - Guestlist widget for website that has actual world map for where people live
 - Water gun to spray washable paint on cars who drive through pedestrian crossway
+- Preprocessor for TypeScript
 
 ## Useless but Interesting
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
