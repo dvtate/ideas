@@ -1,5 +1,5 @@
 # wishlist
-Some project ideas I'd work on if I had free time. See other `.md` files and the lists below for ideas
+Some project ideas I'd work on if I had more free time/motivation. See other `.md` files and the lists below for ideas
 
 ## Useful
 - Translate comments to english (ie - vscode translator extension)
@@ -9,6 +9,8 @@ Some project ideas I'd work on if I had free time. See other `.md` files and the
 - Guestlist widget for website that has actual world map for where people live
 - Water gun to spray washable paint on cars who drive through pedestrian crossway
 - Preprocessor for TypeScript
+- JavaScript library which converts objects into graphviz dot format
+  - Even better if it would have a chrome style dropdown which lets you explore the objects' internals
 
 ## Useless but Interesting
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
