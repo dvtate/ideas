@@ -13,10 +13,11 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
   - Even better if it would have a chrome style dropdown which lets you explore the objects' internals
 - ifttt + scratch
 
-## Useless but Interesting
+## Useless but Interesting/funny
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
 - OS that's just conway's game of life
 - [anti-spellcheck](https://twitter.com/hoffridder/status/1362180211392065536): underlines words that are spelled correctly and gives most common mispellings
+- `diff` except it always just says the entire file changed
 
 ## \[Bad] Startup ideas
 - Tinder for e-dating
