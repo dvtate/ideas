@@ -12,6 +12,7 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
 - JavaScript library which converts objects into graphviz dot format
   - Even better if it would have a chrome style dropdown which lets you explore the objects' internals
 - ifttt + scratch
+- WebRTC IPC
 
 ## Useless but Interesting/funny
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
