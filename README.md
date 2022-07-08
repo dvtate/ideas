@@ -28,6 +28,7 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
 ## Games
 - Chemical factory game
 - Racing game with an elo-system
+- [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
 
 ## Other lists
 - https://better-dpt-roll.github.io/
