@@ -30,5 +30,9 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
 - Racing game with an elo-system
 - [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
 
+## Maybe Hardware?
+- add reservation/scheduling system for important equiptment (could be app but more lame)
+- something to tell me when last time I took pill was
+
 ## Other lists
 - https://better-dpt-roll.github.io/
