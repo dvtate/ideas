@@ -13,6 +13,7 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
   - Even better if it would have a chrome style dropdown which lets you explore the objects' internals
 - ifttt + scratch
 - WebRTC IPC
+- github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
 
 ## Useless but Interesting/funny
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
