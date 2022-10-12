@@ -28,6 +28,7 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
 - Tinder for e-dating
 - Ransomware "insurance" - team to reinstall & recover everything (ie - for factories)
 - Like Wikipedia but for [fake?] news
+- [23andme](https://www.23andme.com/) for dogs
 
 ## Games
 - Chemical factory game
