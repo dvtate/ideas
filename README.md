@@ -15,6 +15,7 @@ Some project ideas I'd work on if I had more free time/motivation. See other `.m
 - WebRTC IPC
 - github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
 - birdmonitors.net mobile app
+- wasm linker
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
