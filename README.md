@@ -18,7 +18,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - wasm linker
 - extract media files from Twitter archive
 - Tinder for e-dating (ie - browser extension to highlight single users of social media sites)
-
+- self-hosted version of [gemfury.com](https://gemfury.com)
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
 - OS that's just conway's game of life
