@@ -2,8 +2,7 @@
 Some project ideas I'd work on if I had more freetime/motivation. See other `.md` files and the lists below for specs and ideas.
 
 ## Useful Software
-- github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
-- wasm linker
+- WASM linker: probably difficult because tables
 - Translate code comments to English (ie - vscode translator extension)
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
 - Convert this a github repo into a website that lets people contribute their own ideas and maybe add bounties too
@@ -44,3 +43,4 @@ These aren't trivial to do but could be revolutionary if done well.
   - The WebRTC spec is so incredibly cursed that at this point I'd just recommend that people use [peerjs](https://github.com/peers/peerjs).
 - Chrome/firefox console for node.js so you can inspect complex objects
   - Saw this somewhere, not super important for me rn
+- github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
