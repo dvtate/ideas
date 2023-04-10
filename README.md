@@ -12,6 +12,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - extract media files from Twitter archive
 - Tinder for e-dating (ie - browser extension to highlight single users on social media)
 - self-hostable version of [gemfury.com](https://gemfury.com)
+- GitHub but for CC media. Like Wikimedia but searchable.
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
