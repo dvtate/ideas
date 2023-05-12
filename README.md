@@ -2,6 +2,7 @@
 Some project ideas I'd work on if I had more freetime/motivation. See other `.md` files and the lists below for specs and ideas.
 
 ## Useful Software
+- Microsoft excel but with a better way to extend functionality 
 - WASM linker: probably difficult because tables
 - Translate code comments to English (ie - vscode translator extension)
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
@@ -14,6 +15,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - self-hostable version of [gemfury.com](https://gemfury.com)
 - GitHub but for CC media. Like Wikimedia but searchable.
 - Use ChatGPT, speech recognition and TTS to wait and interact with customer service on your behalf
+
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
