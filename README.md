@@ -15,7 +15,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - self-hostable version of [gemfury.com](https://gemfury.com)
 - GitHub but for CC media. Like Wikimedia but searchable.
 - Use ChatGPT, speech recognition and TTS to wait and interact with customer service on your behalf
-
+- Server logging system which sends a message to sysadmin via Telegram or their preferred IM.
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
