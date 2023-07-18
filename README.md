@@ -22,6 +22,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - `diff` except it always just says the entire file changed
 - Shopping carts with turn signals; grocery stores with traffic signs+lights
 - Program which creates animation where one plant turns into a network of plants via asexual reproduction. Inputs: list of coordinates
+- digital sliderule
 
 ## Games
 - Chemical factory game
