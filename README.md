@@ -16,6 +16,8 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - GitHub but for CC media. Like Wikimedia but searchable.
 - Use ChatGPT, speech recognition and TTS to wait and interact with customer service on your behalf
 - Server logging system which sends a message to sysadmin via Telegram or their preferred IM.
+- Track server usage (similar to AWS EC2 console stats)
+  + Track: load average, disk utilization, temperature, network usage, etc.
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
