@@ -30,6 +30,17 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Chemical factory game
 - Racing game with an elo-system
 - [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
+- economic GSG: you are in control of a city-state in a small world without war
+  - The goal is to conquer the world.
+  - One must leverage trade surpluses and good industrial policy to win
+  - When a city-state goes bankrupt its territories are auctioned to other cities.
+  - Cities can sell land to neighbors to avert bankruptcy.
+  - Trade agreements, restrictions, tariffs, etc.
+  - Transportation infrastructure, taxes, etc.
+  - Natural resources, pollution, disasters, etc.
+  - banking system? population?
+  - Problem: maybe un dues/starting loan slowly bankrupt afk players?
+  - Problem: lots of stuff to trade irl... can't make game 100% realistic
 
 ## Maybe Hardware?
 - Add reservation/scheduling system for important equiptment (could be app but more lame)
