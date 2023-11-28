@@ -49,9 +49,10 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Phone which electrocutes you if you don't unlock it
 - life alert/body cams for people at risk
 
-# Big Ideas/Startups
-These aren't trivial to do but could be revolutionary if done well.
+## Startups
 - ifttt + scratch
+- anti-theft for grocery stores
+- Convert abandoned prison(s) into restaurant. Mugshot on entry, eat in cell/cafeteria.
 
 ## Done/WiP
 - OS that's just conway's game of life
@@ -74,3 +75,4 @@ These aren't trivial to do but could be revolutionary if done well.
   - The WebRTC spec is so incredibly cursed that at this point I'd just recommend that people use [peerjs](https://github.com/peers/peerjs) or don't.
 - Chrome/firefox console for node.js so you can inspect complex objects
   - Saw this somewhere already, not super important for me rn
+
