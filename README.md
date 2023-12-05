@@ -60,7 +60,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - [anti-spellcheck](https://twitter.com/hoffridder/status/1362180211392065536): underlines words that are spelled correctly and gives most common mispellings
   - WiP: https://github.com/dvtate/anti-spellcheck
 - github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
-  - WiP: private, hmu if intereste
+  - WiP: private, hmu if interested
 
 ## Shot down
 - twitter archive media extractor
