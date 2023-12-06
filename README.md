@@ -13,11 +13,10 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - JavaScript library which converts objects into graphviz dot format
 - Guest list widget for website that has actual world map
 - Tinder for e-dating (ie - browser extension to highlight single users on social media)
-- GitHub but for CC media. Like Wikimedia but searchable.
-- Use ChatGPT, speech recognition and TTS to wait and interact with customer service on your behalf
 - Server logging system which sends a message to sysadmin via Telegram or their preferred IM.
 - Track server usage (similar to AWS EC2 console stats)
   + Track: load average, disk utilization, temperature, network usage, etc.
+- ipinfo.io desktop app
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
@@ -75,4 +74,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - The WebRTC spec is so incredibly cursed that at this point I'd just recommend that people use [peerjs](https://github.com/peers/peerjs) or don't.
 - Chrome/firefox console for node.js so you can inspect complex objects
   - Saw this somewhere already, not super important for me rn
-
+- Use ChatGPT, speech recognition and TTS to wait and interact with customer service on your behalf
+  - Google bard is doing this now it seems
+- GitHub but for CC media. Like Wikimedia but searchable.
+  - https://openverse.org/
