@@ -55,14 +55,18 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 
 ## Done/WiP
 - OS that's just conway's game of life
-  - WiP: https://github.com/dvtate/conway-os
+  - Mostly Done: https://github.com/dvtate/conway-os
 - [anti-spellcheck](https://twitter.com/hoffridder/status/1362180211392065536): underlines words that are spelled correctly and gives most common mispellings
   - WiP: https://github.com/dvtate/anti-spellcheck
 - github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
   - WiP: private, hmu if interested
+- Use AI to convert research papers into news articles
+  - https://researchinenglish.com
+- Subdomain url shortener that works with CNAME rules
+  - https://xtie.net
 
 ## Shot down
-- twitter archive media extractor
+- Twitter archive media extractor
   - seems that twitter does this automatically now... only improvement would be to reconstitute metadata or better UI/API
 - self-hostable version of [gemfury.com](https://gemfury.com)
   - viable alternative: just use a VPN
