@@ -4,8 +4,6 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 ## Useful Software
 - Preprocessor for TypeScript
   - idk how I'd do this 
-- Microsoft excel but with a better way to extend functionality
-  - 1st party Python in Excel will def get more traction
 - WASM linker
   - everything should be kinda easy except tables
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
@@ -47,6 +45,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Water gun to spray washable paint on cars who drive through pedestrian crossway
 - Phone which electrocutes you if you don't unlock it
 - life alert/body cams for people at risk
+- qr-code watch https://x.com/hoffridder/status/1747828116804743554?s=20
 
 ## Startups
 - ifttt + scratch
@@ -82,3 +81,5 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - Google bard is doing this now it seems
 - GitHub but for CC media. Like Wikimedia but searchable.
   - https://openverse.org/
+- Microsoft excel but with a better way to extend functionality
+  - 1st party Python in Excel will def get more traction
