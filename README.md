@@ -16,6 +16,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   + Track: load average, disk utilization, temperature, network usage, etc.
 - ipinfo.io desktop app
 - NPM package for openverse API: https://api.openverse.engineering/v1/
+- LDAP client for Linux Desktop
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
