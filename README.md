@@ -18,6 +18,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - NPM package for openverse API: https://api.openverse.engineering/v1/
 - LDAP client for Linux Desktop
 - federated GitHub alternative
+- load average tracker+notifier
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
@@ -28,6 +29,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 
 ## Games
 - Chemical factory game
+- Chemistry lab simulator: construct apparatus, plan chemical reactions, perform exeperiments, etc.
 - Racing game with an elo-system
 - [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
 - economic GSG: you are in control of a city-state in a small world without war
