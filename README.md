@@ -19,6 +19,8 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - LDAP client for Linux Desktop
 - federated GitHub alternative
 - load average tracker+notifier
+- web server middleware that blocks/redirects traffic based on IP address (block big tech, public clouds, etc.)
+  - probably could just use cloudflare
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
