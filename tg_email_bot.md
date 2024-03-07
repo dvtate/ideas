@@ -1,4 +1,5 @@
 - Bot sends all my emails as direct messages to me on [Telegram](https://telegram.org)
 - When I reply to a message it also replies to the email
 - Authentication via oauth2 or similar, I don't want to send my password in plaintext
+- Message actions to mark as spam, delete, etc.
 - Must be open-source under MIT licence
