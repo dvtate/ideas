@@ -3,28 +3,25 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 
 ## Useful Software
 - Preprocessor for TypeScript
-  - idk how I'd do this 
 - WASM linker
-  - everything should be kinda easy except tables
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
 - Convert this a github repo into a website that lets people contribute their own ideas and maybe add bounties too
 - JavaScript library which converts objects into graphviz dot format
 - Guest list widget for website that has actual world map
 - Tinder for e-dating (ie - browser extension to highlight single users on social media)
-- Server logging system which sends a message to sysadmin via Telegram or their preferred IM.
 - Track server usage (similar to AWS EC2 console stats)
   + Track: load average, disk utilization, temperature, network usage, etc.
+  + Integrations: send message when threshold crossed
 - ipinfo.io desktop app
-- NPM package for openverse API: https://api.openverse.engineering/v1/
-- LDAP client for Linux Desktop
+  + read log files
+- GUI LDAP client for Linux Desktop
 - federated GitHub alternative
 - load average tracker+notifier
-- web server middleware that blocks/redirects traffic based on IP address (block big tech, public clouds, etc.)
-  - probably could just use cloudflare
+- trello/jira desktop app/alternative/self-hostable
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
-- `diff` except it always just says the entire file changed
+- `diff` except it always just says the entire file changed (unless both files have same inode?)
 - Shopping carts with turn signals; grocery stores with traffic signs+lights
 - Program which creates animation where one plant turns into a network of plants via asexual reproduction. Inputs: list of coordinates
 - digital sliderule
@@ -32,6 +29,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 ## Games
 - Chemical factory game
 - Chemistry lab simulator: construct apparatus, plan chemical reactions, perform exeperiments, etc.
+  - maybe like a training simulator
 - Racing game with an elo-system
 - [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
 - economic GSG: you are in control of a city-state in a small world without war
@@ -49,9 +47,11 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 ## Maybe Hardware?
 - Add reservation/scheduling system for important equiptment (could be app but more lame)
 - pill calendar that doesn't need reloading
-- Water gun to spray washable paint on cars who drive through pedestrian crossway
+- Stoping cars from running through pedestrian crosswalks
+  - Water gun to spray washable paint on cars who drive through pedestrian crossway
+  - Handheld stop sign with a camera so u can send video evidence to police
 - Phone which electrocutes you if you don't unlock it
-- life alert/body cams for people at risk
+- Life alert/body cams for people at risk
 - qr-code watch https://x.com/hoffridder/status/1747828116804743554?s=20
 
 ## Startups
@@ -90,3 +90,5 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - https://openverse.org/
 - Microsoft excel but with a better way to extend functionality
   - 1st party Python in Excel will def get more traction
+- web server middleware that blocks/redirects traffic based on IP address (block big tech, public clouds, etc.)
+  + probably could just use cloudflare
