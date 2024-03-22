@@ -18,6 +18,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - federated GitHub alternative
 - load average tracker+notifier
 - trello/jira desktop app/alternative/self-hostable
+- chrome plugin that hides posts detected as ai generated
 
 ## Useless but Interesting/fun\[ny]
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
