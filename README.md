@@ -54,7 +54,9 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Phone which electrocutes you if you don't unlock it
 - Life alert/body cams for people at risk
 - qr-code watch https://x.com/hoffridder/status/1747828116804743554?s=20
-
+- smart torpedo:
+  + sub releases torpedo(es) along with position and velocity of target. 
+  + sub escapes, torpedo activates, boom
 ## Startups
 - ifttt + scratch
 - anti-theft for grocery stores
