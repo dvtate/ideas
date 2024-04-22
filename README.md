@@ -57,9 +57,11 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - smart torpedo:
   + sub releases torpedo(es) along with position and velocity of target. 
   + sub escapes, torpedo activates, boom
-## Startups
+
+## Business/startup
 - ifttt + scratch
 - anti-theft for grocery stores
+- Mugshots cafe: convert abandoned prison(s) into cafes. Get a take-home polarioid mugshot before and after. You can hang them on a wall if you want.
 - Convert abandoned prison(s) into restaurant. Mugshot on entry, eat in cell/cafeteria.
 
 ## Done/WiP
