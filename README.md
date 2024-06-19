@@ -57,6 +57,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - smart torpedo:
   + sub releases torpedo(es) along with position and velocity of target. 
   + sub escapes, torpedo activates, boom
+- boat/sub drone for shipping
 
 ## Business/startup
 - botomate - make custom bots with no-code editor?
