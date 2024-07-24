@@ -2,6 +2,7 @@
 Some project ideas I'd work on if I had more freetime/motivation. See other `.md` files and the lists below for specs and ideas.
 
 ## Useful Software
+- Regex list: a bunch of useful regex patterns + translations between them
 - Preprocessor for TypeScript
 - WASM linker
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
