@@ -46,9 +46,10 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - Problem: maybe un dues/starting loan slowly bankrupt afk players?
   - Problem: lots of stuff to trade irl... can't make game 100% realistic
 
-## Maybe Hardware?
+## Hardware?
+- Police Chase Drone that follows cars being chased, attaches to them with a strong magnet then shoots a net that forces the car to stop
 - Add reservation/scheduling system for important equiptment (could be app but more lame)
-- pill calendar that doesn't need reloading
+- Pill calendar/dispenser that doesn't need reloading
 - Stoping cars from running through pedestrian crosswalks
   - Water gun to spray washable paint on cars who drive through pedestrian crossway
   - Handheld stop sign with a camera so u can send video evidence to police
