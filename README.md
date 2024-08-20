@@ -2,27 +2,22 @@
 Some project ideas I'd work on if I had more freetime/motivation. See other `.md` files and the lists below for specs and ideas.
 
 ## Useful Software
-- Regex list: a bunch of useful regex patterns + translations between them
 - Preprocessor for TypeScript
 - WASM linker
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
-- Convert this a github repo into a website that lets people contribute their own ideas and maybe add bounties too
 - JavaScript library which converts objects into graphviz dot format
 - Guest list widget for website that has actual world map
 - Tinder for e-dating (ie - browser extension to highlight single users on social media)
 - Track server usage (similar to AWS EC2 console stats)
   + Track: load average, disk utilization, temperature, network usage, etc.
-  + Integrations: send message when threshold crossed
+  + Integrations: notifications when threshold crossed
 - ipinfo.io desktop app
   + read log files
 - GUI LDAP client for Linux Desktop
-- federated GitHub alternative
-- load average tracker+notifier
-- trello/jira desktop app/alternative/self-hostable
-- chrome plugin that hides posts detected as ai generated
+- Federated GitHub alternative
+- Trello/jira desktop app/alternative/self-hostable
 
 ## Useless but Interesting/fun\[ny]
-- Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
 - `diff` except it always just says the entire file changed (unless both files have same inode?)
 - Shopping carts with turn signals; grocery stores with traffic signs+lights
 - Program which creates animation where one plant turns into a network of plants via asexual reproduction. Inputs: list of coordinates
@@ -67,6 +62,10 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Mugshots cafe: convert abandoned prison(s) into cafes. Get a take-home polarioid mugshot before and after. You can hang them on a wall if you want.
 - Convert abandoned prison(s) into restaurant. Mugshot on entry, eat in cell/cafeteria.
 
+## Website
+- Regex list: a bunch of useful regex patterns + translations between them
+- Convert this a github repo into a website that lets people contribute their own ideas and maybe add bounties too
+
 ## Done/WiP
 - OS that's just conway's game of life
   - Mostly Done: https://github.com/dvtate/conway-os
@@ -100,3 +99,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - 1st party Python in Excel will def get more traction
 - web server middleware that blocks/redirects traffic based on IP address (block big tech, public clouds, etc.)
   + probably could just use cloudflare
+- chrome plugin that hides posts detected as ai generated
+  + detection doesn't work
+- Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
+  + elon took the fun out of twitter api
