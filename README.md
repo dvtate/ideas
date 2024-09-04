@@ -29,17 +29,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - maybe like a training simulator
 - Racing game with an elo-system
 - [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
-- economic GSG: you are in control of a city-state in a small world without war
-  - The goal is to conquer the world.
-  - One must leverage trade surpluses and good industrial policy to win
-  - When a city-state goes bankrupt its territories are auctioned to other cities.
-  - Cities can sell land to neighbors to avert bankruptcy.
-  - Trade agreements, restrictions, tariffs, etc.
-  - Transportation infrastructure, taxes, etc.
-  - Natural resources, pollution, disasters, etc.
-  - banking system? population?
-  - Problem: maybe un dues/starting loan slowly bankrupt afk players?
-  - Problem: lots of stuff to trade irl... can't make game 100% realistic
+- trade wargame: you are in control of a country in a small world without war. Your goal is to conquer the world.
 
 ## Hardware?
 - Police Chase Drone that follows cars being chased, attaches to them with a strong magnet then shoots a net that forces the car to stop
@@ -50,17 +40,13 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - Handheld stop sign with a camera so u can send video evidence to police
 - Phone which electrocutes you if you don't unlock it
 - Life alert/body cams for people at risk
-- qr-code watch https://x.com/hoffridder/status/1747828116804743554?s=20
-- smart torpedo:
-  + sub releases torpedo(es) along with position and velocity of target. 
-  + sub escapes, torpedo activates, boom
+- [qr-code watch](https://x.com/hoffridder/status/1747828116804743554): generate text qr code for current time
 - boat/sub drone for shipping
 
 ## Business/startup
-- botomate - make custom bots with no-code editor?
-- anti-theft for grocery stores
+- Botomate - make custom bots (ie - Discord) with a no-code editor?
+- Anti-theft for grocery stores
 - Mugshots cafe: convert abandoned prison(s) into cafes. Get a take-home polarioid mugshot before and after. You can hang them on a wall if you want.
-- Convert abandoned prison(s) into restaurant. Mugshot on entry, eat in cell/cafeteria.
 
 ## Website
 - Regex list: a bunch of useful regex patterns + translations between them
@@ -68,10 +54,10 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 
 ## Done/WiP
 - OS that's just conway's game of life
-  - Mostly Done: https://github.com/dvtate/conway-os
+  - MVP: https://github.com/dvtate/conway-os
 - [anti-spellcheck](https://twitter.com/hoffridder/status/1362180211392065536): underlines words that are spelled correctly and gives most common mispellings
   - WiP: https://github.com/dvtate/anti-spellcheck
-- github orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
+- Git orphanage: for archived projects, also maybe open issue project asking maintainers why they archived it
   - WiP: private, hmu if interested
 - Use AI to convert research papers into news articles
   - https://researchinenglish.com
