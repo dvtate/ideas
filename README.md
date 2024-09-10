@@ -51,6 +51,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 ## Website
 - Regex list: a bunch of useful regex patterns + translations between them
 - Convert this a github repo into a website that lets people contribute their own ideas and maybe add bounties too
+- [povray](https://www.povray.org/) online ide
 
 ## Done/WiP
 - OS that's just conway's game of life
