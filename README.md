@@ -17,6 +17,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Federated GitHub alternative
 - Trello/jira desktop app/alternative/self-hostable
 - live subtitles for livestreams api
+- [researchinenglish.com](https://researchinenglish.com) browser plugin
 
 ## Useless but Interesting/fun\[ny]
 - `diff` except it always just says the entire file changed (unless both files have same inode?)
