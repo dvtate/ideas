@@ -17,6 +17,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Universal CI/CD platform language
   - can run on top of other CI/CD platforms, locally, or self-hosted
   - translate to/from other CI/CD platforms
+- [RFC 6265](https://datatracker.ietf.org/doc/html/rfc6265) compliant C++ cookie jar library
 
 ## Useless but Interesting/fun\[ny]
 - `diff` except it always just says the entire file changed (unless both files have same inode?)
