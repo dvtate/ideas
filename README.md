@@ -32,6 +32,10 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Racing game with an elo-system
 - [man vs tree](https://twitter.com/caravanmalice/status/1544819658980659200)
 - trade wargame: you are in control of a country in a small world without war. Your goal is to conquer the world.
+- memecoin simulator game:
+  - everyone starts with fixed amount of in-game currency
+  - "invest" in memecoins and pull out before rug-poll
+  - spend in-game currency to create your own memecoins
 
 ## Hardware?
 - Police Chase Drone that follows cars being chased, attaches to them with a strong magnet then shoots a net that forces the car to stop
