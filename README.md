@@ -2,6 +2,7 @@
 Some project ideas I'd work on if I had more freetime/motivation. See other `.md` files and the lists below for specs and ideas.
 
 ## Useful Software
+- Google-maps app for Linux that works on Linux phones
 - Arch Wiki command line version
 - Preprocessor for TypeScript
 - WASM linker
