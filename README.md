@@ -2,29 +2,35 @@
 Some project ideas I'd work on if I had more freetime/motivation. See other `.md` files and the lists below for specs and ideas.
 
 ## Useful Software
-- Google-maps app for Linux that works on Linux phones
-- Arch Wiki command line version
-- Preprocessor for TypeScript
-- WASM linker
+- Crowdsourced Logistics App: help get things from point A to where it needs to go
+  - use case: recyclables/e-waste - list e-waste/recyclables on the app, someone picks it up, and uses/sells it
+  - use case: [CBCM](https://birdmonitors.net) - list bird on app, someone comes to rescue it and/or take it to rehabber
+- Google Maps app for Linux that works on Linux phones
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
-- JavaScript library which converts objects into graphviz dot format
-- Guest list widget for website that has actual world map
 - Tinder for e-dating (ie - browser extension to highlight single users on social media)
-- GUI LDAP client for Linux Desktop
 - Federated GitHub alternative
 - Trello/jira desktop app/alternative/self-hostable
-- live subtitles for livestreams api
 - [researchinenglish.com](https://researchinenglish.com) browser plugin
+- Arch Wiki command line version
+
+## Languages, Devtools, APIs, etc.
+- Preprocessor for TypeScript
+- WASM linker
+- GUI LDAP client for Linux Desktop
 - Universal CI/CD platform language
   - can run on top of other CI/CD platforms, locally, or self-hosted
   - translate to/from other CI/CD platforms
 - [RFC 6265](https://datatracker.ietf.org/doc/html/rfc6265) compliant C++ cookie jar library
+- live subtitles for livestreams api
+- JavaScript library which converts objects into graphviz dot format
+- Guest list widget for website that has actual world map
 
 ## Useless but Interesting/fun\[ny]
 - `diff` except it always just says the entire file changed (unless both files have same inode?)
 - Shopping carts with turn signals; grocery stores with traffic signs+lights
 - Program which creates animation where one plant turns into a network of plants via asexual reproduction. Inputs: list of coordinates
 - digital sliderule
+- Phone which electrocutes you if you don't unlock it
 
 ## Games
 - Chemical factory game
@@ -40,13 +46,17 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 
 ## Hardware?
 - Police Chase Drone that follows cars being chased, attaches to them with a strong magnet then shoots a net that forces the car to stop
-- Add reservation/scheduling system for important equiptment (could be app but more lame)
-- Pill calendar/dispenser that doesn't need reloading
+- Add reservation/scheduling system for shared equiptment/rooms (could be app but more lame)
+  - Hardware:
+    - IoT device with screen that lets you make a reservation
+    - QR Code for reservation calendar event
+    - Check in if not being used
+  - Software:
+    - tracks utiliation (equiptment owner may care about RoI)
+    - notification email/text for reservations, integration with calendar app?
 - Stoping cars from running through pedestrian crosswalks
-  - Water gun to spray washable paint on cars who drive through pedestrian crossway
   - Handheld stop sign with a camera so u can send video evidence to police
-- Phone which electrocutes you if you don't unlock it
-- Life alert/body cams for people at risk
+- Personal body cam, press button to upload past 15mins + start live streaming
 - [qr-code watch](https://x.com/hoffridder/status/1747828116804743554): generate text qr code for current time
 - boat/sub drone for shipping
 
@@ -61,6 +71,8 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - [povray](https://www.povray.org/) online ide
 
 ## Done/WiP
+- Federation protocol and platform
+  - WiP: https://github.com/dvtate/fediy
 - OS that's just conway's game of life
   - MVP: https://github.com/dvtate/conway-os
 - [anti-spellcheck](https://twitter.com/hoffridder/status/1362180211392065536): underlines words that are spelled correctly and gives most common mispellings
@@ -97,3 +109,5 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   + detection doesn't work
 - Twitter bot that qrt "btw i use arch" every time someone mentions linux or arch linux
   + elon took the fun out of twitter api
+- Pill calendar/dispenser that doesn't need reloading and prevents missed/double doses
+  + many pre-existing products
