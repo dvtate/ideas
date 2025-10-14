@@ -32,6 +32,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Program which creates animation where one plant turns into a network of plants via asexual reproduction. Inputs: list of coordinates
 - digital sliderule
 - Phone which electrocutes you if you don't unlock it
+- [qr-code watch](https://x.com/hoffridder/status/1747828116804743554): generate text qr code for current time
 
 ## Games
 - Chemical factory game
@@ -46,7 +47,6 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - spend in-game currency to create your own memecoins
 
 ## Hardware?
-- Police Chase Drone that follows cars being chased, attaches to them with a strong magnet then shoots a net that forces the car to stop
 - Add reservation/scheduling system for shared equiptment/rooms (could be app but more lame)
   - Hardware:
     - IoT device with screen that lets you make a reservation
@@ -57,9 +57,9 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
     - notification email/text for reservations, integration with calendar app?
 - Stoping cars from running through pedestrian crosswalks
   - Handheld stop sign with a camera so u can send video evidence to police
-- Personal body cam, press button to upload past 15mins + start live streaming
-- [qr-code watch](https://x.com/hoffridder/status/1747828116804743554): generate text qr code for current time
-- boat/sub drone for shipping
+- Boat/sub drone for shipping
+- Drone that can drill through walls and insert things into the hole
+- Drone that follows cars, attaches to them with a strong magnet then shoots arresting net
 
 ## Business/startup
 - Botomate - make custom bots (ie - Discord) with a no-code editor?
@@ -70,6 +70,8 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Regex list: a bunch of useful regex patterns + translations between them
 - Convert this a github repo into a website that lets people contribute their own ideas and maybe add bounties too
 - [povray](https://www.povray.org/) online ide
+
+---
 
 ## Done/WiP
 - Federation protocol and platform
@@ -112,3 +114,6 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   + elon took the fun out of twitter api
 - Pill calendar/dispenser that doesn't need reloading and prevents missed/double doses
   + many pre-existing products
+- Personal body cam, press button to upload past XX mins + start live streaming
+  + I've seen like 12 companies do this concept and it's always flopped
+  + Better to make an app for smart glasses some other wearable hardware
