@@ -12,6 +12,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Trello/jira desktop app/alternative/self-hostable
 - [researchinenglish.com](https://researchinenglish.com) browser plugin
 - Arch Wiki command line version
+- Graph IR: Rewrite Postfix-Haskell IR to be more generic
 
 ## Languages, Devtools, APIs, etc.
 - Preprocessor for TypeScript
