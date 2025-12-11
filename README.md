@@ -26,6 +26,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - JavaScript library which converts objects into graphviz dot format
 - Guest list widget for website that has actual world map
 - TZ database API
+- Procedurally generated form based on spec that validates inputs and outputs JSON.
 
 ## Useless but Interesting/fun\[ny]
 - `diff` except it always just says the entire file changed (unless both files have same inode?)
