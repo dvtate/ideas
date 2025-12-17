@@ -27,6 +27,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Guest list widget for website that has actual world map
 - TZ database API
 - Procedurally generated form based on spec that validates inputs and outputs JSON.
+- Android app that runs scripts with access to phone hardware, network, etc. [alternative to to raspberry pi/esp32](https://x.com/i/status/1931937088955351270)
 
 ## Useless but Interesting/fun\[ny]
 - `diff` except it always just says the entire file changed (unless both files have same inode?)
