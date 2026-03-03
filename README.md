@@ -13,6 +13,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - [researchinenglish.com](https://researchinenglish.com) browser plugin
 - Arch Wiki command line version
 - Graph IR: Rewrite Postfix-Haskell IR to be more generic
+- Blog post: benchmarks for different ways to read file into a string/buffer in C/C++ (similar to [[1]](https://insanecoding.blogspot.com/2011/11/how-to-read-in-file-in-c.html) [[2]](https://insanecoding.blogspot.com/2011/11/reading-in-entire-file-at-once-in-c.html))
 
 ## Languages, Devtools, APIs, etc.
 - Preprocessor for TypeScript
@@ -120,3 +121,4 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Personal body cam, press button to upload past XX mins + start live streaming
   + I've seen like 12 companies do this concept and it's always flopped
   + Better to make an app for smart glasses some other wearable hardware
+- Fast hash table: no need to reinvent the wheel, use `boost::flat_unordered_map` or https://github.com/abseil/abseil-cpp
