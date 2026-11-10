@@ -49,6 +49,7 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - everyone starts with fixed amount of in-game currency
   - "invest" in memecoins and pull out before rug-poll
   - spend in-game currency to create your own memecoins
+- Flock: bird-themed platformer: each bird in ur flock has different abilities & stats, you have to get the whole flock to the end to win.
 
 ## Hardware?
 - Add reservation/scheduling system for shared equiptment/rooms (could be app but more lame)
