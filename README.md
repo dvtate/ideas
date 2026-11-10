@@ -8,12 +8,12 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
 - Google Maps app for Linux that works on Linux phones
 - Automated tool that helps you migrate your code from github to codeberg or some other git hosting platform not owned by M$
 - Tinder for e-dating (ie - browser extension to highlight single users on social media)
-- Federated GitHub alternative
 - Trello/jira desktop app/alternative/self-hostable
 - [researchinenglish.com](https://researchinenglish.com) browser plugin
 - Arch Wiki command line version
 - Graph IR: Rewrite Postfix-Haskell IR to be more generic
 - Blog post: benchmarks for different ways to read file into a string/buffer in C/C++ (similar to [[1]](https://insanecoding.blogspot.com/2011/11/how-to-read-in-file-in-c.html) [[2]](https://insanecoding.blogspot.com/2011/11/reading-in-entire-file-at-once-in-c.html))
+- Tree ring counting app
 
 ## Languages, Devtools, APIs, etc.
 - Preprocessor for TypeScript
@@ -59,16 +59,15 @@ Some project ideas I'd work on if I had more freetime/motivation. See other `.md
   - Software:
     - tracks utiliation (equiptment owner may care about RoI)
     - notification email/text for reservations, integration with calendar app?
-- Stoping cars from running through pedestrian crosswalks
+- Stopping cars from running through pedestrian crosswalks
   - Handheld stop sign with a camera so u can send video evidence to police
 - Boat/sub drone for shipping
-- Drone that can drill through walls and insert things into the hole
 - Drone that follows cars, attaches to them with a strong magnet then shoots arresting net
 
 ## Business/startup
 - Botomate - make custom bots (ie - Discord) with a no-code editor?
 - Anti-theft for grocery stores
-- Mugshots cafe: convert abandoned prison(s) into cafes. Get a take-home polarioid mugshot before and after. You can hang them on a wall if you want.
+- Mugshots cafe: convert abandoned prison(s) into cafes. Get a take-home Polaroid mugshot before and after. You can hang them on a wall if you want.
 
 ## Website
 - Regex list: a bunch of useful regex patterns + translations between them
